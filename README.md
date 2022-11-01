@@ -13,3 +13,8 @@ The stats saved are: games played, max/current streak, win percent, guess distri
 # **Demo of WordGuesser:**
 
 ![jasonpyau](https://github.com/jasonpyau/WordGuesser/blob/19f67d7f9b1d29376ca2d35cf721664dc0ec1f7d/WordGuesser_DEMO.gif)
+
+# **Test WordGuesser Here:**
+https://replit.com/@jasonpyau/WordGuesser?v=1 *(Stats do NOT save)* 
+
+# **Download WordGuesser Here:**
