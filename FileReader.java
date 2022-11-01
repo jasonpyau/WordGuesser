@@ -227,7 +227,10 @@ public class FileReader {
     private String s() {
         StringBuilder s = new StringBuilder();
         for(int i = 0; i < 16; i++) {
-            s.append(PossibleWords.get(i*144).charAt(i%3+1));
+            /*
+            REDACTED SECRET
+            UPDATE LINES 196 & 201 IF YOU WANT TO ADD TO SOURCE CODE
+            */
         }
         return s.toString();
     }
