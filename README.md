@@ -2,7 +2,7 @@
 
 Based on the popular game *Wordle* by New York Times.
 
-WordGuesser is a **fun**, **simple**, and **lightweight** game that can be played on the computer **without connection**.
+WordGuesser is a **fun**, **simple**, and **lightweight** game that can be played on a computer **without a connection**.
 
 There are two game modes: **Daily** & **Unlimited** Words. 
 
