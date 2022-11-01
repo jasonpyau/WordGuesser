@@ -18,6 +18,6 @@ The stats saved are: games played, max/current streak, win percent, guess distri
 https://replit.com/@jasonpyau/WordGuesser?v=1 *(Stats do NOT save)* 
 
 # **Download WordGuesser Here:**
-Step 1: If you haven't already, download the latest version of Java here: https://www.java.com/en/
-Step 2: Download the Zip File & Extract: https://github.com/jasonpyau/WordGuesser/releases/tag/WordGuesser
-Step 3: Double click on WordGuesser.jar or runWordGuesser.bat (Windows only) to execute
+Step 1: If you haven't already, download the latest version of Java here: https://www.java.com/en/ <br/>
+Step 2: Download the Zip File & Extract: https://github.com/jasonpyau/WordGuesser/releases/tag/WordGuesser <br/>
+Step 3: Double click on WordGuesser.jar or runWordGuesser.bat (Windows only) to execute 
