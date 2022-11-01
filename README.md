@@ -6,7 +6,7 @@ WordGuesser is a **fun**, **simple**, and **lightweight** game that can be playe
 
 There are two game modes: **Daily** & **Unlimited** Words. 
 
-Stats for both game modes save into your hard drive.
+Stats for both game modes save on your hard drive.
 The stats saved are: games played, max/current streak, win percent, guess distribution, and word history.
 
 
